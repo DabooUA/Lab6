@@ -40,7 +40,7 @@ public class TranslateGame {
 		}	
 		System.out.println("Good bye!!!");
 		scnr.close();
-		
+		// Need to creat a Method for Vowels
 	}
 
 }
